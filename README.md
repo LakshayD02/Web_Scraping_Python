@@ -12,7 +12,7 @@ This Python program automates the process of extracting product data from an e-c
 
 * **HTML Parsing:** Employs BeautifulSoup to parse the HTML structure of the page. 📖
 
-* **Data Extraction:** Extracts product information (name, price, rating, etc.) using CSS selectors or other appropriate methods.  🔍
+* **Data Extraction:** Extracts product information  using CSS selectors or other appropriate methods.  🔍
 
 * **Data Storage:** Stores the extracted data in a structured format (list of dictionaries, etc.). 🗄️
 
